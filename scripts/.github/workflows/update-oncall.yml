@@ -24,3 +24,4 @@ jobs:
           git add public/oncall.json
           git commit -m "Update oncall.json" || echo "No changes"
           git push
+Add update-oncall workflow
